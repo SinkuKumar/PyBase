@@ -175,3 +175,4 @@ cython_debug/
 
 # Custom user files
 .DS_Store
+deployment.yaml
