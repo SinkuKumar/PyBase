@@ -1,0 +1,13 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true
+  },
+  "black-formatter.args": ["--line-length", "200"],
+  "flake8.args": ["--max-line-length=200"],
+  "pylint.args": ["--max-line-length=200"],
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "diffEditor.codeLens": true,
+  "editor.codeActionWidget.includeNearbyQuickFixes": true
+}

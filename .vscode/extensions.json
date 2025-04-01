@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    "ms-python.isort",
+    "ms-python.flake8",
+    "ms-python.python",
+    "ms-python.pylint",
+    "ms-python.debugpy",
+    "yzane.markdown-pdf",
+    "ms-toolsai.jupyter",
+    "qwtel.sqlite-viewer",
+    "ritwickdey.liveserver",
+    "ms-python.vscode-pylance",
+    "ms-toolsai.jupyter-keymap",
+    "ms-python.black-formatter",
+    "ms-toolsai.jupyter-renderers",
+    "ms-toolsai.vscode-jupyter-slideshow",
+    "ms-toolsai.vscode-jupyter-cell-tags"
+  ]
+}

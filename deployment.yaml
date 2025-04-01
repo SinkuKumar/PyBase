@@ -1,0 +1,18 @@
+repo_url: "https://github.com/SinkuKumar/PyBase.git"
+branch: "main"
+commit_hash: ""
+local_dir: "./Users/Sinku/Desktop/Deployment"
+exclude_ext: ".ipynb"
+
+env:
+  # SMTP Server Credentials
+  SMTP_ADDRESS: "smtp.office365.com"
+  SMTP_PORT: 587
+  SMTP_ACCOUNT: "email@domian.com"
+  SMTP_PASSWORD: "secret-password"
+
+  # SQL Server Credentials
+  SQL_SERVER: "127.0.0.1"
+  SQL_DATABASE: "DB_Name"
+  SQL_USERNAME: "username"
+  SQL_PASSWORD: "password"
